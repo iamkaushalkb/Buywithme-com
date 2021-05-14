@@ -1,0 +1,6 @@
+development:
+  password: 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
+  theme_id: "122876199093"
+  store: buywithme-com.myshopify.com
+  ignore_files:
+    - /config/settings_data.json
